@@ -13,6 +13,3 @@ Błędów jest kilka, lecz chodzi głównie o zapoznanie z gitem, by móc sprawn
 
 Tutaj jest link do bardzo dobrego poradnika do gita po Polsku:
 https://www.youtube.com/playlist?list=PLKnxnWdLGM4_6EaJsD3h7egbDOlYBJ3pJ
-
-
-change
